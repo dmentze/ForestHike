@@ -104,7 +104,7 @@ Also note that by keeping a sum of inverse speeds for each bridge, the CrossTime
 
 Prerequisites are to have standard c++ tools suite installed along with cmake.
 
-Download application from here:  xxx
+Download application from here:  https://github.com/dmentze/ForestHike
 
 Change directories into the topmost directory, and create a build directory:  e.g. mkdir build
 
