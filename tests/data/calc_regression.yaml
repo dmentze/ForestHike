@@ -1,0 +1,27 @@
+
+bridges:
+    - length: 1000
+      hikers:
+        - name: fred1
+          speed: 50.0
+    - length: 02000.1
+      hikers:
+        - name: fred2
+          speed: 21.1
+        - name: fred3
+          speed: 41
+        - name: fred4
+          speed: 21
+        - name: fred5
+          speed: 41
+        - name: fred6
+          speed: 21
+    - length: 1001
+    - length: 2002
+      hikers:
+        - name: fred7
+          speed: 99
+
+          
+          
+
